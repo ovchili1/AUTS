@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quest_body: MyText
+  quest_type: MyString
+  teacher_id: 
+
+two:
+  quest_body: MyText
+  quest_type: MyString
+  teacher_id: 
